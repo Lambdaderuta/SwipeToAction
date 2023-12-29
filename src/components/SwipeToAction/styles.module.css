@@ -1,0 +1,14 @@
+.swipeContainer {
+  position: relative;
+}
+
+.swipeElement {
+  position: relative;
+  z-index: 1;
+}
+
+.bottomNode {
+  position: absolute;
+  color: #000;
+  inset: 0;
+}
